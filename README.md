@@ -18,7 +18,7 @@
           
 
 <h4>Front End : React.js </h4> 
-<h4>Back End : Spring, Java, Gradle, JPA, JWT / MySQL  </h4>
+<h4>Back End : Spring, Java, Gradle, JPA, JWT, Oauth, WebSocket / MySQL  </h4>
 <h4>Cloud/CICD : AWS(EC2) , Jenkins, Github </h4>
 <h4>Others : Test Code , Logging, </h4>
 <h4>Development Tools : IntelliJ, Postman</h4>
