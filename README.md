@@ -38,6 +38,9 @@
 <h4>JWT</h4> 
 <h4>notice board</h4> 
 <h4>Chat (Socket)</h4> 
+<h4>Search posts</h4> 
+<h4>Paging</h4> 
+
 
 <br>
 
