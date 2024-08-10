@@ -32,7 +32,6 @@
 </h2>
 
 <h4>Responsive web</h4> 
-<h4>log in</h4> 
 <h4>Social login</h4> 
 <h4>My Page (including photos)</h4> 
 <h4>JWT</h4> 
