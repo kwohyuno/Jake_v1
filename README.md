@@ -10,6 +10,7 @@
 
 
           
+
           
 
 <h4>Front End : React.js </h4> 
@@ -20,6 +21,22 @@
 <h4>TBU : Docker, Kubernetes, MSA, Redis, Kafka, TypeScript </h4>
 
 <br>
+
+<h2> Function  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width=30 height=30 />
+          
+</h2>
+
+<h4>Responsive web</h4> 
+<h4>log in</h4> 
+<h4>Social login</h4> 
+<h4>My Page (including photos)</h4> 
+<h4>JWT</h4> 
+<h4>notice board</h4> 
+<h4>Chat (Socket)</h4> 
+
+<br>
+
 <h2>Development Schedule
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width=30 height=30 />
