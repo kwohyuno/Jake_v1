@@ -22,7 +22,7 @@
 <h4>Cloud/CICD : AWS(EC2) , Jenkins, Github </h4>
 <h4>Others : Test Code , Logging, </h4>
 <h4>Development Tools : IntelliJ, Postman</h4>
-<h4>TBU : Docker, Kubernetes, MSA, Redis, Kafka, TypeScript </h4>
+<h4>TBU : Docker, Kubernetes, MSA, Redis, Kafka, TypeScript, Responsive Web </h4>
 
 <br>
 
@@ -31,7 +31,7 @@
           
 </h2>
 
-<h4>Responsive web</h4> 
+
 <h4>Social login</h4> 
 <h4>My Page (including photos)</h4> 
 <h4>JWT</h4> 
@@ -39,6 +39,7 @@
 <h4>Chat </h4> 
 <h4>Search posts</h4> 
 <h4>Paging</h4> 
+<h4>Comments to posts</h4>
 
 
 <br>
