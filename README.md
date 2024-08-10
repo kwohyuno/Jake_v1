@@ -4,6 +4,7 @@
 <h1>Development Plan for the project</h1>
 
 <h5> The web community Jake is the social network where new coming international students in US can communicate and make friends. </h5>
+<h5> <a href="https://docs.google.com/presentation/d/1W-uI_vz5otAeODGWVnWvOWjPOzSUmfWrtPH4PyE0DuQ/edit?usp=sharing">Link for UI Design</a> </h5>
 <br>
 
 
