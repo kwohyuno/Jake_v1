@@ -3,6 +3,10 @@
 
 <h1>Development Plan for the project</h1>
 
+<h5> The web community Jake is the social network where new coming international students in US can communicate and make friends. </h5>
+<br>
+
+
 <h2>Tech Stack   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=30 height=30/>
 </h2>
