@@ -23,7 +23,7 @@
 <h4>Cloud/CICD : AWS(EC2) , Jenkins, Github </h4>
 <h4>Others : Test Code , Logging, </h4>
 <h4>Development Tools : IntelliJ, Postman</h4>
-<h4>TBU : Docker, Kubernetes, MSA, Redis, Kafka, TypeScript, Responsive Web </h4>
+<h4>TBU : Docker, Kubernetes, MSA, Redis, Kafka, TypeScript, Responsive Web, Monitoring, Security, Availability&Scalability , Throughput Enhancement, Code Refactoring(Clean Code) , UI Enhancement </h4>
 
 <br>
 
